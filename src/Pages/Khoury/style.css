@@ -1,0 +1,7 @@
+image-container {
+    place-content: center;
+}
+
+img {
+   margin: 3px; 
+}
